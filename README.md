@@ -33,6 +33,7 @@ brew tap schubergphilis/tap
 
 ```sh
 # Formulae
+brew install schubergphilis/tap/claude-docker
 brew install schubergphilis/tap/grawsp
 
 # Casks
